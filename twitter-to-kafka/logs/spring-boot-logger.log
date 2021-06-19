@@ -1,0 +1,17 @@
+2021-06-19 16:59:40,376 INFO org.springframework.boot.StartupInfoLogger [main] Starting TwitterToKafkaServiceApplication using Java 15.0.2 on DESKTOP-RMED0BH with PID 12108 (E:\GitProjects\kafka-ms\microservice-demo\twitter-to-kafka\target\classes started by guneet in E:\GitProjects\kafka-ms\microservice-demo\twitter-to-kafka)
+2021-06-19 16:59:40,380 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-19 16:59:41,313 INFO org.springframework.boot.StartupInfoLogger [main] Started TwitterToKafkaServiceApplication in 1.551 seconds (JVM running for 2.747)
+2021-06-19 16:59:41,318 INFO com.microservices.demo.twitter.to.kafka.service.TwitterToKafkaServiceApplication [main] App started
+2021-06-19 16:59:41,318 INFO com.microservices.demo.twitter.to.kafka.service.TwitterToKafkaServiceApplication [main] [Java, Microservice, Spring, Kafka, ElasticSearch]
+2021-06-19 17:03:13,051 INFO org.springframework.boot.StartupInfoLogger [main] Starting TwitterToKafkaServiceApplication using Java 15.0.2 on DESKTOP-RMED0BH with PID 7952 (E:\GitProjects\kafka-ms\microservice-demo\twitter-to-kafka\target\classes started by guneet in E:\GitProjects\kafka-ms\microservice-demo\twitter-to-kafka)
+2021-06-19 17:03:13,057 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-19 17:03:13,944 INFO org.springframework.boot.StartupInfoLogger [main] Started TwitterToKafkaServiceApplication in 1.5 seconds (JVM running for 2.458)
+2021-06-19 17:03:13,949 INFO com.microservices.demo.twitter.to.kafka.service.TwitterToKafkaServiceApplication [main] App started
+2021-06-19 17:03:13,950 INFO com.microservices.demo.twitter.to.kafka.service.TwitterToKafkaServiceApplication [main] [Java, Microservice, Spring, Kafka, ElasticSearch]
+2021-06-19 17:03:13,950 INFO com.microservices.demo.twitter.to.kafka.service.TwitterToKafkaServiceApplication [main] null
+2021-06-19 17:04:51,066 INFO org.springframework.boot.StartupInfoLogger [main] Starting TwitterToKafkaServiceApplication using Java 15.0.2 on DESKTOP-RMED0BH with PID 8892 (E:\GitProjects\kafka-ms\microservice-demo\twitter-to-kafka\target\classes started by guneet in E:\GitProjects\kafka-ms\microservice-demo\twitter-to-kafka)
+2021-06-19 17:04:51,072 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-19 17:04:51,947 INFO org.springframework.boot.StartupInfoLogger [main] Started TwitterToKafkaServiceApplication in 1.488 seconds (JVM running for 2.466)
+2021-06-19 17:04:51,953 INFO com.microservices.demo.twitter.to.kafka.service.TwitterToKafkaServiceApplication [main] App started
+2021-06-19 17:04:51,953 INFO com.microservices.demo.twitter.to.kafka.service.TwitterToKafkaServiceApplication [main] [Java, Microservice, Spring, Kafka, ElasticSearch]
+2021-06-19 17:04:51,953 INFO com.microservices.demo.twitter.to.kafka.service.TwitterToKafkaServiceApplication [main] Hello Microservices
